@@ -4,3 +4,6 @@
 ```C++
 std::cout << "Hey pupsik"<< n/;
 ```
+- [ ] Go nahui
+- [ ] Fuck sam sebea
+- [ ] Enjoy life 
